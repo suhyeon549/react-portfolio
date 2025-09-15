@@ -24,7 +24,7 @@ function Dday() {
 
   return (
     <div>
-      <h2>졸업까지</h2>
+      <h2>🎓 졸업까지</h2>
       <p>{dday}</p>
     </div>
   );

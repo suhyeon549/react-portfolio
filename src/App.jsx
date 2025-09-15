@@ -13,9 +13,9 @@ function App() {
         <Dday />
       </header>
       <nav>
-        <Link to="/resume">이력</Link> | {" "}
-        <Link to="/portfolio">포트폴리오</Link> | {" "}
-        <Link to="/about-me">자기소개</Link>
+        <Link to="/resume">이력 📄</Link> | {" "}
+        <Link to="/portfolio">포트폴리오 📂</Link> | {" "}
+        <Link to="/about-me">자기소개 😊</Link>
       </nav>
       <main className="content">
         <Routes>
