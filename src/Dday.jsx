@@ -25,6 +25,7 @@ function Dday() {
   return (
     <div>
       <h2>연수현의 포트폴리오 사이트</h2>
+      <h4>졸업까지</h4>
       <p>{dday}</p>
     </div>
   );
