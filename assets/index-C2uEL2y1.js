@@ -4092,7 +4092,7 @@ void main() {
     background-color: #000000;
     color: #FEDAF1;
     text-align: center;
-    padding-right: 3vw;
+    // padding-right: 3vw;
 }
 
 /* 제목/부제 스타일 */
