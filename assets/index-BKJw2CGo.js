@@ -4086,7 +4086,7 @@ void main() {
           padding-top: 0.5rem;
         }
 
-        /* ⭐⭐⭐ ABOUT SECTION (카드) - 새로운 스타일 적용 ⭐⭐⭐ */
+        /*        ABOUT SECTION (카드) - 새로운 스타일 적용        */
 .content-section#about {
     padding-top: 10vw;
     background-color: #000000;
@@ -4252,7 +4252,7 @@ void main() {
     cursor: default;
 }
 
-/* ⭐ 모바일 (1024px 이하) */
+/*    모바일 (1024px 이하) */
 @media (max-width: 1024px) {
     .about-card-grid {
         flex-direction: column;
@@ -4291,7 +4291,7 @@ void main() {
     }
 }
 
-/* ⭐⭐⭐ ABOUT SECTION (카드) 끝 ⭐⭐⭐ */
+/*        ABOUT SECTION (카드) 끝        */
 
 
         /* Skills Section Custom Styles */
@@ -4980,7 +4980,7 @@ void main() {
     width: 100%; /* 텍스트 자체는 100% 너비에서 중앙 정렬 */
 }
 
-/* ⭐ 중앙 정렬을 위한 래퍼 (새로 추가) ⭐ */
+/*    중앙 정렬을 위한 래퍼 (새로 추가)    */
 .contact-center-wrapper {
     display: flex;
     justify-content: center; /* 내부 요소를 가로 중앙 정렬 */
@@ -5031,7 +5031,7 @@ void main() {
 /* .contact-content-grid, .contact-form-container, .form-title, .form-grid, 
    .input-group, .send-message-button 등 모든 폼 관련 CSS를 삭제하세요. */
 
-/* ⭐ 모바일 미디어 쿼리 (900px 이하) 조정 ⭐ */
+/*    모바일 미디어 쿼리 (900px 이하) 조정    */
 @media (max-width: 900px) {
     /* contact-content-grid 대신 contact-center-wrapper에 적용 */
     .contact-center-wrapper {
